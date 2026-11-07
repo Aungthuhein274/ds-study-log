@@ -1,0 +1,6 @@
+# Large dataset files
+*.csv
+data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
